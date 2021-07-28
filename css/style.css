@@ -3,6 +3,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* customization! */
 .header-bg{
     background-color: #264653;
     
@@ -13,4 +14,10 @@ body{
 }
 .btn-color{
     background-color: #E76F51;
+}
+.best-txt-clr{
+    color: #E76F51;
+}
+.bike-gray {
+    filter: grayscale(100);
 }
