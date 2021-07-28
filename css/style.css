@@ -1,0 +1,16 @@
+/* google font */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-bg{
+    background-color: #264653;
+    
+}
+
+.header-small-text{
+    color: #E0E0E0;
+}
+.btn-color{
+    background-color: #E76F51;
+}
