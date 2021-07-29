@@ -51,3 +51,7 @@ figure:hover{
 }
 /* extra section-1 end */
 
+/* extra section-2 start */
+.extra-section-bg{
+    background-color: rgb(255, 239, 248);
+}
