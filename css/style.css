@@ -35,3 +35,18 @@ body{
     border-radius: 128px;
     border: gray;
 }
+.img-caps{
+    background-color: rgba(128, 128, 128, 0.527);
+    
+}
+
+
+figure{
+   
+    transition: transform .5s linear;
+
+}
+figure:hover{
+    transform: scale(1.05);
+}
+
