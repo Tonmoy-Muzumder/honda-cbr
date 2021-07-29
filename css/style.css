@@ -17,7 +17,21 @@ body{
 }
 .best-txt-clr{
     color: #E76F51;
+    
 }
 .bike-gray {
     filter: grayscale(100);
+}
+.client-text{
+    color: #6C6C6C;
+}
+.filled{
+    color: #E77C40;
+    font-size: 17px;
+}
+.user-3{
+    width: 256px;
+    height: 256px;
+    border-radius: 128px;
+    border: gray;
 }
