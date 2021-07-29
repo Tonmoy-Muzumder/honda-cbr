@@ -40,7 +40,7 @@ body{
     
 }
 
-
+/* extra section-1 start */
 figure{
    
     transition: transform .5s linear;
@@ -49,4 +49,5 @@ figure{
 figure:hover{
     transform: scale(1.05);
 }
+/* extra section-1 end */
 
